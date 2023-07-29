@@ -1,1 +1,1 @@
-Wetterprognosen App
+Wetterprognosen Tool
